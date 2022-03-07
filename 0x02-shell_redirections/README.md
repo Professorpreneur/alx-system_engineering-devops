@@ -1,2 +1,1 @@
-#!/bin/bash
-I am starting 
+good
